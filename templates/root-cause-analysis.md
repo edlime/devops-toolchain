@@ -38,3 +38,11 @@ The 5 Whys is a problem-solving technique used to identify the root cause of a s
 ### Pareto Analysis
 
 Pareto Analysis or the 80/20 rule is a statistical method used to prioritize issues based on their impact and frequency. It identifies the vital few causes that contribute to the majority of problems, allowing organizations to focus their resources effectively. By ranking problems based on their importance, Pareto Analysis helps in making data-driven decisions and improving overall performance.
+
+| **High level issues** | **5 Whys**                               | **Pareto Analysis** |
+| --------------------- | ---------------------------------------- | ------------------- |
+| People                | Why?<br>Why?<br>Why?<br>Why?<br>Why?<br> | Vote                |
+| Process               | Why?<br>Why?<br>Why?<br>Why?<br>Why?<br> | Vote                |
+| Tools                 | Why?<br>Why?<br>Why?<br>Why?<br>Why?<br> | Vote                |
+| Program               | Why?<br>Why?<br>Why?<br>Why?<br>Why?<br> | Vote                |
+| Environment           | Why?<br>Why?<br>Why?<br>Why?<br>Why?<br> | Vote                |
